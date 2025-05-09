@@ -5,6 +5,12 @@
 
 ### 🧠 Tech Stack
 
+#### 🧾 Languages
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=white)
+
 #### 🚀 Backend
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -14,6 +20,8 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![WebSocket](https://img.shields.io/badge/WebSocket-004880?style=for-the-badge&logo=websockets&logoColor=white)
 ![STOMP](https://img.shields.io/badge/STOMP-%23F29111.svg?style=for-the-badge&logo=stomp&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-%23F7DF1E.svg?style=for-the-badge&logo=java&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
 #### 💻 Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -28,9 +36,17 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Naver Cloud](https://img.shields.io/badge/naver%20cloud-03C75A?style=for-the-badge&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
 #### 🧪 AI / Data / Others
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=white)
+
+#### 🛢️ Database
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-DB0000.svg?style=for-the-badge&logo=MyBatis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 📈 GitHub Stats
 <p>
