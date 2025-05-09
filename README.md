@@ -1,4 +1,4 @@
-<p align="center"> Hi, I’m @drumtiger 👋</p>
+<h2 align="center"> Hi, I’m <b>drumtiger</b>👋</h2>
 <p align="center"> 🐯⚾🥁🎧🍀🧶💻</p>
 
 ---
