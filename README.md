@@ -3,6 +3,14 @@
 
 ---
 
+### 💡 About Me
+
+> 배움에 열정과 끈기를 더하는 개발자 **양현의**입니다.  
+> 백엔드와 프론트엔드를 모두 다루는 풀스택 개발자로,
+> 철저한 테스트와 디테일한 구현으로 안정적인 서비스를 만듭니다.
+
+---
+
 ### 🧠 Tech Stack
 
 #### 🧾 Languages
@@ -46,11 +54,28 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-DB0000.svg?style=for-the-badge&logo=MyBatis&logoColor=white)
 
+#### 🛠️ API
+![Google](https://img.shields.io/badge/Google-4285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+![Naver](https://img.shields.io/badge/Naver-03C75A.svg?style=for-the-badge&logo=naver&logoColor=white)
+![Kakao](https://img.shields.io/badge/Kakao-FFCD00.svg?style=for-the-badge&logo=kakao&logoColor=black)
+![Toss Payments](https://img.shields.io/badge/Toss_Payments-0064FF.svg?style=for-the-badge&logo=toss&logoColor=white)
+![Kakao Map](https://img.shields.io/badge/Kakao_Map-FFCD00.svg?style=for-the-badge&logo=kakaotalk&logoColor=black)
+
 ### 📈 GitHub Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=drumtiger&show_icons=true&theme=one_dark_pro" height="160px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drumtiger&layout=compact&theme=one_dark_pro" height="160px"/>
 </p>
+
+---
+
+### 📬 Contact
+
+- ✉️ Email : astrallana@naver.com 
+- 🧵 Project (MIMYO) : [https://mimyo.my](https://mimyo.my)
+
+---
+
 
 <!---
 - 👋 Hi, I’m @drumtiger
