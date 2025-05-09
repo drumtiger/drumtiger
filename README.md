@@ -32,6 +32,10 @@
 #### 🧪 AI / Data / Others
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=white)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=drumtiger&show_icons=true&theme=one_dark_pro" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drumtiger&layout=compact&theme=one_dark_pro" height="160px"/>
+</p>
 
 <!---
 - 👋 Hi, I’m @drumtiger
