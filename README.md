@@ -1,5 +1,7 @@
-<p align="center" Hi, I’m @drumtiger 👋>
-<p align="center" 🐯⚾🥁🎧🍀🧶💻>
+<p align="center"> Hi, I’m @drumtiger 👋</p>
+<p align="center"> 🐯⚾🥁🎧🍀🧶💻</p>
+
+---
 
 ### 🧠 Tech Stack
 
