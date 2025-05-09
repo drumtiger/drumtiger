@@ -1,5 +1,5 @@
-<h2 align="center"> Hi, I’m hyuneui👋</h2>
-<h5 align="center"> 🐯⚾🥁🎧🍀🧶💻</h5>
+<h1 align="center"> Hi, I’m hyuneui👋</h1>
+<h2 align="center"> 🐯⚾🥁🎧🍀🧶💻</h2>
 
 ---
 
