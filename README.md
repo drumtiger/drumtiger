@@ -45,8 +45,6 @@
 #### 🛢️ Database
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-DB0000.svg?style=for-the-badge&logo=MyBatis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 📈 GitHub Stats
 <p>
