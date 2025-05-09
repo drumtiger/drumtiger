@@ -47,9 +47,6 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
-#### 🧪 AI / Data / Others
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=white)
-
 #### 🛢️ Database
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-DB0000.svg?style=for-the-badge&logo=MyBatis&logoColor=white)
