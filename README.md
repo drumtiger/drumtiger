@@ -1,7 +1,5 @@
 <h1 align="center"> Hi, I’m hyuneui👋</h1>
 
----
-
 ### 💡 About Me
 
 > 배움에 열정과 끈기를 더하는 개발자 **양현의**입니다.  
